@@ -1,4 +1,4 @@
-# agricultural-classification
+# Agricultural-Classification
 
 🌾 Agricultural Crop Classifier
 
