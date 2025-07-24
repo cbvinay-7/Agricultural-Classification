@@ -102,6 +102,15 @@ Open to improvements, bug fixes, and feature suggestions. Feel free to fork and 
 
 ---
 
+---
+
+## 📖 Author
+
+* **C B Vinay**
+* GitHub: [cbvinay-7](https://github.com/cbvinay-7)
+
+---
+
 ## 🎉 Acknowledgements
 
 - PyTorch team
